@@ -11,7 +11,7 @@
 - 👯 I’m looking to collaborate with companies, organizations or even individuals to solve their business problems by leveraging data.
 - 🤔 I’m open for Entry Level Data Analyst Role as I am currently in search of a Data Analyst role.
 - 💬 Ask me about Data and I will respond immediately. However, PowerBI is my favorite Data Analysis tool 
-- 📫 How to reach me: [Linkedin] () 
+- 📫 How to reach me: ogeben1@outlook.com
 - 😄 Pronouns: She/her
 - ⚡ Fun fact: I love to mentor youths who are pursuing their career in tech.
 
